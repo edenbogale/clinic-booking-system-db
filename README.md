@@ -40,5 +40,5 @@ A **relational MySQL database** for a multi-clinic medical booking system.
 
 ---
 
-> 👨‍💻 Created by [Your Name] — for the PLP Database Design Final Project.  
+> 👨‍💻 Created by Eden Demissie — for the PLP Database Design Final Project.  
 > Submitted on: September 2025
